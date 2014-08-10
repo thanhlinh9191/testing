@@ -8,6 +8,7 @@
     [self customizeAppearance];
     
     return YES;
+    //abc
 }
 							
 - (void)applicationWillResignActive:(UIApplication *)application
